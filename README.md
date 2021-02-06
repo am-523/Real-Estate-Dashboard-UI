@@ -37,7 +37,7 @@ Real Estate Dashboard UI
 
 
 ## Tutorial 📸
-- <a href="https://youtu.be/Lko3XtXcoz0">
+- <a href="https://youtu.be/46jjNnYQF5E">
 			Youtube
 		</a> 
 
